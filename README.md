@@ -1,2 +1,2 @@
-# blogs
-the blogs of me
+# @数星星的孩子 博客
+所有博客文章均以 GitHub Issue 的形式发布，[点此阅读]()
